@@ -4,7 +4,7 @@
 
 **Código:** A00054620 
 
-**Github URL:** https://github.com/juanswan13/so-workshop2/edit/A00054620/Taller2/ 
+**Github URL:** https://github.com/juanswan13/so-workshop2/ 
 
 ## Descripción
 
