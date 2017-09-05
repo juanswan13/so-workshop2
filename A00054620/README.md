@@ -15,8 +15,8 @@ Mi tema elegido es el sistema primer sistema operativo de la historia, GM-NAA I/
 ## Referencias
 
 http://faculty.salina.k-state.edu/tim/ossg/Introduction/OShistory.html  
-http://www.cs.gordon.edu/courses/cs322/lectures/history.html
-http://manidestiny.blogspot.com.co/2013/12/first-things-in-software.html
-https://es.wikipedia.org/wiki/GM-NAA_I/O
-http://www.elconspirador.com/2013/08/02/gm-naa-io/
+http://www.cs.gordon.edu/courses/cs322/lectures/history.html  
+http://manidestiny.blogspot.com.co/2013/12/first-things-in-software.html  
+https://es.wikipedia.org/wiki/GM-NAA_I/O  
+http://www.elconspirador.com/2013/08/02/gm-naa-io/  
 
